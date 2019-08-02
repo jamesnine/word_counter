@@ -1,6 +1,6 @@
 <?php
-	// get the file extesion of the uploaded document.
-	// you can use my upload script to uplaod files (https://github.com/jamesnine/php_upload_script)
+	// get the file extension of the uploaded document.
+	// you can use my upload script to upload files (https://github.com/jamesnine/php_upload_script)
 
 	if($fileext === "doc")
 		// install "catdoc" program (on debian, just do an apt-get install catdoc)
